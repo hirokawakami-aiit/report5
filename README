@@ -1,0 +1,11 @@
+
+・２つの数の最大公約数を求めるプログラムです
+
+・最初に「Enter first number」と表示されますので、１つめの数を入力してください
+
+・続いて「Enter the second number」と表示されますので、2つめの数を入力してください
+
+・その結果、「echo GCD of 1つめの数 and 2つ目の数 = XXX」と表示されます。
+　このXXXが最大公約数になります。
+
+・なおGCDとは、Greatest Common Divisorの省略形であり、最大公約数を意味する英語になります
